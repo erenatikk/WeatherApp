@@ -1,0 +1,22 @@
+# appsettings.json içinde API key'in varsa, onu dışla
+appsettings.json
+appsettings.Development.json
+
+# Derleme çıktıları
+bin/
+obj/
+
+# Visual Studio dosyaları
+.vs/
+*.suo
+*.user
+
+# IDE dosyaları
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
